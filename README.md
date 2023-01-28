@@ -1,5 +1,8 @@
 # RTU_Algorithms_DIP321
 
-* Algorithms Course Spring 2021
-* Algorithms Course Spring 2022
-* Algorithms Course Spring 2023
+
+## Offered 
+
+* Spring 2021
+* Spring 2022
+* Spring 2023
