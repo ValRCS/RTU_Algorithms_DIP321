@@ -14,3 +14,4 @@
 * Spring 2023
 * Spring 2024
 * Spring 2025
+* Spring 2026
