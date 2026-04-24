@@ -16,3 +16,5 @@ homework/.ipynb_checkpoints/Solution-checkpoint.ipynb
 topics/.ipynb_checkpoints/AllPairsShortestPath-Floyd_Warshall-checkpoint.ipynb
 topics/.ipynb_checkpoints/Parsing-checkpoint.ipynb
 venv
+.codex_tmp_deps/
+.ipynb_checkpoints/
