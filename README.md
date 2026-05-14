@@ -3,6 +3,7 @@
 ## RTU DITF
 
 ![RTU](https://www.rtu.lv/images/logo_en.svg?v=1.1)
+
 * [Riga Technical University](https://www.rtu.lv/en/fcsite)
 
 
