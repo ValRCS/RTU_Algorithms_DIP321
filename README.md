@@ -47,10 +47,6 @@ The links below open the preferred notebook versions in Google Colab. When near-
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/sudoku_solver_by_backtracking.ipynb) Sudoku Solver by Backtracking
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/BranchAndBound.ipynb) Branch and Bound
 
-### Probabilistic Analysis
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/randomized_algorithms.ipynb) Randomized Algorithms
-
 ### Graph Algorithms
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/Dijkstra%27s_Algorithm.ipynb) Dijkstra's Algorithm
@@ -69,3 +65,7 @@ The links below open the preferred notebook versions in Google Colab. When near-
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/Parsing.ipynb) Parsing Algorithms and Abstract Syntax Trees
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/string_matching.ipynb) String Matching Algorithms
+
+### Probabilistic Analysis
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RTU_Algorithms_DIP321/blob/main/topics/randomized_algorithms.ipynb) Randomized Algorithms
